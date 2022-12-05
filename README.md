@@ -1,2 +1,2 @@
 # StarbucksClone
-A replica of starbusk coffee company site.
+A replica of starbucks coffee company site.
